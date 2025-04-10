@@ -18,6 +18,3 @@ LoadLibraryW
 LoadLibraryEx
 LoadLibraryExA
 LoadLibraryExW
-_waccess
-_access
-access
