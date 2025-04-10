@@ -4,6 +4,7 @@ gets
 strtok
 sprintf
 vsprintf
+snprintf
 strcat
 strncat
 _mbscat
@@ -18,3 +19,13 @@ LoadLibraryW
 LoadLibraryEx
 LoadLibraryExA
 LoadLibraryExW
+strlen
+strnlen
+strcmp
+strncmp
+strdup
+strndup
+wcscpy
+wcsncpy
+wcslen
+wcsnlen

@@ -2,7 +2,8 @@
 A very simple shell script that searches for "bad" functions in a code base using `grep`.  These functions are problematic from a security point of view as they have frequent buffer-overrun issues.
 
 The collection of bad-functions.txt names is shamelessly ripped from CURL
-[https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/)
+[https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/) and other sources
+[https://stackoverflow.com/questions/1253053/what-makes-a-c-standard-library-function-dangerous-and-what-is-the-alternative#1253079](https://stackoverflow.com/questions/1253053/what-makes-a-c-standard-library-function-dangerous-and-what-is-the-alternative#1253079).
 
 
 ## Usage
